@@ -1,1 +1,11 @@
 /* Временные стили добавлять здесь */
+.borderFrame {
+    height: 420px;
+    border: 1px solid #64748B;
+    border-color: rgba(100, 116, 139, 0.12);
+    border-radius:8px;
+    padding: 24px;
+    
+    
+
+}
